@@ -1,0 +1,1 @@
+This project was created for study pruposes with emphasis on Semantic HTML
